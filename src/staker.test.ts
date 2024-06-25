@@ -1,4 +1,4 @@
-import { Token } from '@cndllabs/sdk-core'
+import { Token } from '@uniswap/sdk-core'
 import { FeeAmount } from './constants'
 import { Pool } from './entities/pool'
 import { Staker } from './staker'
